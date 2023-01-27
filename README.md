@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegocarlo0526" alt="diegocarlo0526" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=diegocarlo0526" alt="diegocarlo0526" /></a> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegocarlo0526&" alt="diegocarlo0526" /></p>
