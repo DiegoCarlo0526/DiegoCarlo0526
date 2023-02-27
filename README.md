@@ -8,9 +8,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoCarlo0526&show_icons=true&theme=radical" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegocarlo26&layout=compact" />
-</a>
 
 
 
